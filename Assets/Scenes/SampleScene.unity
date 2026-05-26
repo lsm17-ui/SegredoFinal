@@ -173,7 +173,7 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 27.9811, y: 26.541735, z: 20.80172}
+  m_Size: {x: 10.7, y: 26.541735, z: 10.8}
   m_Center: {x: 0.071353436, y: 12.528234, z: -3.07114}
 --- !u!1 &61414950 stripped
 GameObject:
@@ -225,7 +225,7 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 27.9811, y: 26.541735, z: 20.80172}
+  m_Size: {x: 10.6, y: 30.6, z: 9.5}
   m_Center: {x: 0.07135105, y: 12.528234, z: -3.07114}
 --- !u!1 &219373428 stripped
 GameObject:
@@ -573,7 +573,7 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 27.9811, y: 26.541735, z: 20.80172}
+  m_Size: {x: 5, y: 26.541735, z: 20.80172}
   m_Center: {x: 0.07134628, y: 12.528234, z: -3.0711477}
 --- !u!1 &736328335 stripped
 GameObject:
@@ -677,7 +677,7 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 27.9811, y: 26.541735, z: 20.80172}
+  m_Size: {x: 9.6, y: 26.541735, z: 7.94}
   m_Center: {x: 0.07135105, y: 12.528234, z: -3.0711553}
 --- !u!1 &947191633
 GameObject:
@@ -1077,7 +1077,7 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 27.9811, y: 26.541735, z: 20.80172}
+  m_Size: {x: 9.2, y: 26.541735, z: 10.7}
   m_Center: {x: 0.07135391, y: 12.528234, z: -3.0711248}
 --- !u!1 &1128006067 stripped
 GameObject:
@@ -1439,7 +1439,7 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 27.981098, y: 26.541733, z: 20.801718}
+  m_Size: {x: 9.3, y: 26.541733, z: 9.8}
   m_Center: {x: 0.07135295, y: 12.528233, z: -3.0711474}
 --- !u!1 &1546730991 stripped
 GameObject:
@@ -1864,7 +1864,7 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 27.981098, y: 26.541733, z: 20.801718}
+  m_Size: {x: 15, y: 26.541733, z: 11.5}
   m_Center: {x: 0.071353905, y: 12.528233, z: -3.0711398}
 --- !u!1 &1781316704 stripped
 GameObject:
